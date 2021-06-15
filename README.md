@@ -2,6 +2,6 @@
 
 - Install git
 - Run `notepad $PROFILE` in powershell.  
-- Add the code to the file.
+- Add the code in *profile* file to the file.
 - Save and exit.
 - Browse to your git repo from powershell.
